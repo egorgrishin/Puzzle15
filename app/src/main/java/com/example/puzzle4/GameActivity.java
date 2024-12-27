@@ -153,9 +153,6 @@ public class GameActivity extends AppCompatActivity {
     }
 
     private boolean isWin() {
-        if (moveCount == 7) {
-            return true;
-        }
         for (int i = 0; i < tiles.size() - 1; i++) {
             if (tiles.get(i) != i + 1) {
                 return false;
