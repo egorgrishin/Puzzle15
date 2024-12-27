@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="My" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:background">@color/green</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:fontFamily">@font/shantell_sans</item>
+    </style>
+
+</resources>

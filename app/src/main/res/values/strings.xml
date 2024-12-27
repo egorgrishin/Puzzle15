@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Пятнашки</string>
+    <string name="btn_back">Назад</string>
+</resources>
